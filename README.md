@@ -4,4 +4,4 @@
 
 ⚙ BETA
 
-https://imperfect-dime.surge.sh/
+https://immense-earthquake.surge.sh/
