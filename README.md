@@ -16,10 +16,17 @@
 https://user-images.githubusercontent.com/60453269/186005876-feabf5ec-732f-435e-9064-e3c2b38546fe.mp4
 
 
-## ⚛️ Tecnologias utilizadas 
-- React Js
-- Styled Components 
-- Axios 
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML, CSS, Javascript
+- React.js
+- Styled Components
+- axios
+
+💻 Projeto
+
+Esta aplicação é um clone customizado do tinder. Nela podemos escolher dar metch, recusar ou resetar. Atraves do axios tem o acesso a api, em que tem um banco de dados onde esta cadastrado todas pessoas, a aplicação consiste em uma comunicação constante front end e o back-end em tempo real.  
 
 ## 🖥️ Libs para instalar e visualizar o projeto 
 
