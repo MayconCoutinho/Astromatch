@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <b> Projeto semelhante ao Tinder para fins de estudos </b></br>
-  <sub> Para fins de estudo criei um leitor de audio usando NextJS.
+  <b> Uma Plataforma de Namoro</b></br>
+  <sub>  Projeto semelhante ao Tinder com desiner diferente, projeto para fins de estudos.
   <sub>
 </p>
 
